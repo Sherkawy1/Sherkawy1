@@ -18,7 +18,7 @@ I build end-to-end Computer Vision applications, custom Deep Learning models, an
 
 * **Core Vision Tools:** OpenCV, YOLOv8, MediaPipe, Anomalib
 * **Deep Learning Frameworks:** PyTorch, TensorFlow
-* **Languages & Platform:** Python, C++, Git, Linux
+* **Languages & Platform:** Python, C++, Git
 
 ---
 
